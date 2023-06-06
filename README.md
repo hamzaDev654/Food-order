@@ -5,7 +5,7 @@ Nonetheless having the helper components which is responsible to create UI to ma
 App is totally split into compnenets as many as needed. 
 
 
-NOTE:
+# NOTE:
 Would appriciate feedback from you for my better enhancement.
 
 Thank you !
